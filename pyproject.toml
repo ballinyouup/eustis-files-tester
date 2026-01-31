@@ -3,4 +3,4 @@ name = "eustis-files-tester"
 version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.9"
-dependencies = []
+dependencies = ["questionary"]
