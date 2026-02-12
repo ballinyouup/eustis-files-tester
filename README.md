@@ -15,5 +15,6 @@ Eustis requires password input for each option.
 
 ```bash
 git clone https://github.com/ballinyouup/eustis-cli.git
-cd eustis-cli && python main.py
+cd eustis-cli && python main.py ## setup alias
+eustis ## run the cli
 ```
